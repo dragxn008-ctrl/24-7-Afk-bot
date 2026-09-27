@@ -2077,3 +2077,7 @@ addLog(
 addLog("=".repeat(50));
 
 createBot();
+mineflayer.createBot(...)
+bot.on('end', ...)
+bot.on('kicked', ...)
+bot.on('error', ...)
