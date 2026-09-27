@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "DragonBot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Dragxnnnnn-ssNx.aternos.me",
