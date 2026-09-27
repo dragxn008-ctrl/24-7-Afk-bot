@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "DragonBot",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "Dragxnnnnn-ssNx.aternos.me",
     "port": 12450,
-    "version": "1.20.1",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
